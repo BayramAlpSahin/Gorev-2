@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 #include <locale.h>
 using namespace std;
  
@@ -57,7 +57,7 @@ int main()
 		cout<<"elli";
 		break;
 	case 6:
-		cout<<"otuz";
+		cout<<"altmış";
 		break;
 	case 7:
 		cout<<"yetmiş";
